@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Solutions.ArchitectureBlueprint.Domain</RootNamespace>
+    <AssemblyName>Solutions.ArchitectureBlueprint.Domain</AssemblyName>
+  </PropertyGroup>
+</Project>

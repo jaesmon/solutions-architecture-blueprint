@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Solutions.ArchitectureBlueprint.Application</RootNamespace>
+    <AssemblyName>Solutions.ArchitectureBlueprint.Application</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Solutions.ArchitectureBlueprint.Domain.csproj" />
+  </ItemGroup>
+</Project>
